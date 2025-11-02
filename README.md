@@ -1,2 +1,2 @@
 # hello-repo
-sdfds
+This is "Hello repository" and enough
